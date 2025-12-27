@@ -1,6 +1,5 @@
-# first_demo
-learning git
+# (first_demo)
 
 
 <h1><B><I>INTRODUCTION</I></B> </h1>
-hello githuh
+Hello github!
